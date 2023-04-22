@@ -1,6 +1,8 @@
 {
     "title": "Token Metadata",
     "type": "object",
+    "description": "making nft testnet",
+    "image": "https://xcantoshi.github.io/nft/nft/1.png",
     "properties": {
         "name": {
             "type": "string",
