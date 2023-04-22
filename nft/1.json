@@ -4,7 +4,7 @@
     "properties": {
         "name": {
             "type": "string",
-            "description": "test nft"
+            "description": "1"
         },
         "decimals": {
             "type": "integer",
