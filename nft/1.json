@@ -16,7 +16,7 @@
         },
         "image": {
             "type": "string",
-            "description": "github.com"
+            "description": "https://github.com/xCantoshi/nft/blob/main/nft/1.png"
         },
         "properties": [
             {
